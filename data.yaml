@@ -1,0 +1,7 @@
+# Edit these paths to point to your dataset
+path: dataset
+train: images/train
+val: images/val
+names:
+  0: class1
+  1: class2
